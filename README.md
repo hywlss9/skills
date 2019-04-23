@@ -1,2 +1,2 @@
 # skills
-참고 : http://woodlawnschool.net/aurora/index.php
+기능대회 
